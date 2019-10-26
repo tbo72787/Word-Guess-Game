@@ -1,0 +1,7 @@
+.hide-me {
+  display: none;
+}
+
+.jumbotron {
+  z-index: 99;
+}
